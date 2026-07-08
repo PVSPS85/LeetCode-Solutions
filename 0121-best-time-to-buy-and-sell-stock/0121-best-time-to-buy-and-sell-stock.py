@@ -1,16 +1,17 @@
 class Solution(object):
     def maxProfit(self, prices):
-        min = prices[0] 
-        max  = 0
-        for i in prices:
-           
-            if i < min :
-                min = i
 
-            profit = i - min 
+        minimum_price = prices[0]
+        maximum_profit = 0
 
+        for price in prices:
 
-            if profit > max :
-                max = profit
+            if price < minimum_price:
+                minimum_price = price
 
-        return max         
+            profit = price - minimum_price
+
+            if profit > maximum_profit:
+                maximum_profit = profit
+
+        return maximum_profit
