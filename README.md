@@ -79,4 +79,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0191-number-of-1-bits](https://github.com/PVSPS85/LeetCode-Solutions/tree/master/0191-number-of-1-bits) |
 | [0371-sum-of-two-integers](https://github.com/PVSPS85/LeetCode-Solutions/tree/master/0371-sum-of-two-integers) |
+| [0693-binary-number-with-alternating-bits](https://github.com/PVSPS85/LeetCode-Solutions/tree/master/0693-binary-number-with-alternating-bits) |
 <!---LeetCode Topics End-->
