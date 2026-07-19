@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0371-sum-of-two-integers](https://github.com/PVSPS85/LeetCode-Solutions/tree/master/0371-sum-of-two-integers) |
 | [0412-fizz-buzz](https://github.com/PVSPS85/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
 | [2235-add-two-integers](https://github.com/PVSPS85/LeetCode-Solutions/tree/master/2235-add-two-integers) |
 ## Simulation
@@ -72,4 +73,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/PVSPS85/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0371-sum-of-two-integers](https://github.com/PVSPS85/LeetCode-Solutions/tree/master/0371-sum-of-two-integers) |
 <!---LeetCode Topics End-->
