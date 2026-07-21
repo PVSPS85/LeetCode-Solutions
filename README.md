@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/PVSPS85/LeetCode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0219-contains-duplicate-ii](https://github.com/PVSPS85/LeetCode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/PVSPS85/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/PVSPS85/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/PVSPS85/LeetCode-Solutions/tree/master/0704-binary-search) |
 | [1480-running-sum-of-1d-array](https://github.com/PVSPS85/LeetCode-Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/PVSPS85/LeetCode-Solutions/tree/master/1672-richest-customer-wealth) |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/PVSPS85/LeetCode-Solutions/tree/master/0219-contains-duplicate-ii) |
+| [0268-missing-number](https://github.com/PVSPS85/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0771-jewels-and-stones](https://github.com/PVSPS85/LeetCode-Solutions/tree/master/0771-jewels-and-stones) |
 ## Sliding Window
 |  |
@@ -44,10 +46,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/PVSPS85/LeetCode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0268-missing-number](https://github.com/PVSPS85/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/PVSPS85/LeetCode-Solutions/tree/master/0704-binary-search) |
 ## Math
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/PVSPS85/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/PVSPS85/LeetCode-Solutions/tree/master/0371-sum-of-two-integers) |
 | [0412-fizz-buzz](https://github.com/PVSPS85/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
 | [2235-add-two-integers](https://github.com/PVSPS85/LeetCode-Solutions/tree/master/2235-add-two-integers) |
@@ -79,7 +83,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/PVSPS85/LeetCode-Solutions/tree/master/0191-number-of-1-bits) |
+| [0268-missing-number](https://github.com/PVSPS85/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/PVSPS85/LeetCode-Solutions/tree/master/0338-counting-bits) |
 | [0371-sum-of-two-integers](https://github.com/PVSPS85/LeetCode-Solutions/tree/master/0371-sum-of-two-integers) |
 | [0693-binary-number-with-alternating-bits](https://github.com/PVSPS85/LeetCode-Solutions/tree/master/0693-binary-number-with-alternating-bits) |
+## Sorting
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/PVSPS85/LeetCode-Solutions/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
