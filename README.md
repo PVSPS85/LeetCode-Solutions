@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/PVSPS85/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/PVSPS85/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [0053-maximum-subarray](https://github.com/PVSPS85/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/PVSPS85/LeetCode-Solutions/tree/master/0152-maximum-product-subarray) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/PVSPS85/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0219-contains-duplicate-ii](https://github.com/PVSPS85/LeetCode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/PVSPS85/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0771-jewels-and-stones](https://github.com/PVSPS85/LeetCode-Solutions/tree/master/0771-jewels-and-stones) |
