@@ -159,5 +159,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1075-project-employees-i](https://github.com/PVSPS85/LeetCode-Solutions/tree/master/1075-project-employees-i) |
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/PVSPS85/LeetCode-Solutions/tree/master/1141-user-activity-for-the-past-30-days-i) |
 | [1407-top-travellers](https://github.com/PVSPS85/LeetCode-Solutions/tree/master/1407-top-travellers) |
+| [1667-fix-names-in-a-table](https://github.com/PVSPS85/LeetCode-Solutions/tree/master/1667-fix-names-in-a-table) |
 | [1683-invalid-tweets](https://github.com/PVSPS85/LeetCode-Solutions/tree/master/1683-invalid-tweets) |
 <!---LeetCode Topics End-->
