@@ -161,4 +161,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1407-top-travellers](https://github.com/PVSPS85/LeetCode-Solutions/tree/master/1407-top-travellers) |
 | [1667-fix-names-in-a-table](https://github.com/PVSPS85/LeetCode-Solutions/tree/master/1667-fix-names-in-a-table) |
 | [1683-invalid-tweets](https://github.com/PVSPS85/LeetCode-Solutions/tree/master/1683-invalid-tweets) |
+| [1741-find-total-time-spent-by-each-employee](https://github.com/PVSPS85/LeetCode-Solutions/tree/master/1741-find-total-time-spent-by-each-employee) |
 <!---LeetCode Topics End-->
